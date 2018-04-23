@@ -13,3 +13,10 @@ TODO
 
 # for now, ignore autosaves
 saves/autosaves/*.json
+
+# Ignore your VS Code settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
