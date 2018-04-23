@@ -20,3 +20,6 @@ saves/autosaves/*.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# Ignore Mac files
+.DS_Store
